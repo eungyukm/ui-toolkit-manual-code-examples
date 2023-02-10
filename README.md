@@ -1,10 +1,10 @@
 # UI Toolkit Manual Code Examples
 
-This repo includes the code examples for Unity's UI Toolkit documentation. The code examples in this repo don't work by themselves and the repo doesn't include any project files. 
-이 저장소는 Unity의 UI 툴킷 문서에 대한 코드 예제가 포함되어 있습니다. 이 저장소의 코드 예제는 자체적으로 작동하지 않으며 저장소에는 프로젝트 파일이 포함되어 있지 않습니다.
+This repo includes the code examples for Unity's UI Toolkit documentation. The code examples in this repo don't work by themselves and the repo doesn't include any project files.        
+이 저장소는 Unity의 UI 툴킷 문서에 대한 코드 예제가 포함되어 있습니다. 이 저장소의 코드 예제는 자체적으로 작동하지 않으며 저장소에는 프로젝트 파일이 포함되어 있지 않습니다.       
 
-You must follow the steps in the UI Toolkit user manual to create the examples. You can create the examples with any Unity template and with the sample scene. Most of the examples were created with Editor UI for demo purposes, but they will work for runtime UI.
-예제를 만들려면 UI 툴킷 사용자 매뉴얼의 단계를 따라야 합니다. 유니티 템플릿과 샘플 장면을 사용하여 예제를 만들 수 있습니다. 대부분의 예제는 데모 목적으로 Editor UI로 작성되었지만 런타임 UI에서는 작동합니다.
+You must follow the steps in the UI Toolkit user manual to create the examples. You can create the examples with any Unity template and with the sample scene. Most of the examples were created with Editor UI for demo purposes, but they will work for runtime UI.      
+예제를 만들려면 UI 툴킷 사용자 매뉴얼의 단계를 따라야 합니다. 유니티 템플릿과 샘플 장면을 사용하여 예제를 만들 수 있습니다. 대부분의 예제는 데모 목적으로 Editor UI로 작성되었지만 런타임 UI에서는 작동합니다.     
 
 ## Editor UI examples
 
